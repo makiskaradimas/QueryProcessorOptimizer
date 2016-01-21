@@ -1,0 +1,1 @@
+proj[depositor.customer_name](sel[branch.branch_city=Brooklyn and account.balance>2000](join[branch.branch_name=account.branch_name](branch)(join[account.account_number=depositor.account_number](account)(depositor))))

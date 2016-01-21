@@ -1,0 +1,12 @@
+C:\Documents and Settings\ekaradimas\My Documents\Dropbox\QPO\QPO\bin\Release\QPO.exe
+C:\Documents and Settings\ekaradimas\My Documents\Dropbox\QPO\QPO\bin\Release\QPO.pdb
+C:\Documents and Settings\ekaradimas\My Documents\Dropbox\QPO\QPO\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ekaradimas\My Documents\Dropbox\QPO\QPO\obj\x86\Release\QPO.exe
+C:\Documents and Settings\ekaradimas\My Documents\Dropbox\QPO\QPO\obj\x86\Release\QPO.pdb
+C:\Documents and Settings\Owner\My Documents\Dropbox\QPO\QPO\obj\x86\Release\QPO.exe
+C:\Documents and Settings\Owner\My Documents\Dropbox\QPO\QPO\obj\x86\Release\QPO.pdb
+C:\Documents and Settings\Owner\My Documents\Dropbox\QPO\QPO\bin\Release\QPO.exe
+C:\Documents and Settings\Owner\My Documents\Dropbox\QPO\QPO\bin\Release\QPO.pdb
+C:\Documents and Settings\Owner\My Documents\Dropbox\QPO\QPO\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dropbox\QPO\QPO\obj\x86\Release\QPO.exe
+D:\Dropbox\QPO\QPO\obj\x86\Release\QPO.pdb
